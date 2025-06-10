@@ -1,5 +1,6 @@
 <!-- 🎨 HEADER ANIMADO RGB + CENIZA -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=1000&height=80&lines=Hola%2C+soy+Facundo+Bustos+%F0%9F%91%8B;Backend+Developer+orientado+a+Java+%F0%9F%92%BB;Stack%3A+Java+%7C+Spring+Boot+%7C+MySQL+%7C+C+%7C+Trello+%7C+Jira;Construyendo+sistemas+robustos+y+escalables+%E2%9A%99%EF%B8%8F&color=888888&vCenter=true)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF4D4D,FFD700,00FF00,00FFFF,1E90FF,BA55D3,F08080&center=true&width=1000&lines=Hola%2C+soy+Facundo+Bustos+%F0%9F%91%8B;Backend+Developer+orientado+a+Java+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+MySQL+%7C+C+%7C+Trello+%7C+Jira;Construyendo+sistemas+robustos+y+escalables+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 ---
 
