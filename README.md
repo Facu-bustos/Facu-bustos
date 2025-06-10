@@ -1,6 +1,7 @@
 <!-- 🎨 HEADER ANIMADO RGB + CENIZA -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FF4D4D,FFD700,00FF00,00FFFF,1E90FF,BA55D3,F08080&center=true&width=1000&lines=Hola%2C+soy+Facundo+Bustos+%F0%9F%91%8B;Backend+Developer+orientado+a+Java+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+MySQL+%7C+C+%7C+Trello+%7C+Jira;Construyendo+sistemas+robustos+y+escalables+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+<!-- 🎨 HEADER RGB GRADUAL -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00CFFF,FFA500,00FF00,8A2BE2,1E90FF,888888&center=true&width=1000&lines=Hola%2C+soy+Facundo+Bustos+%F0%9F%91%8B;Backend+Developer+orientado+a+Java+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+MySQL+%7C+C+%7C+Trello+%7C+Jira;Construyendo+sistemas+robustos+y+escalables+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 ---
 
