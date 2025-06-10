@@ -20,8 +20,10 @@
 - 🧱 Foco principal en desarrollo **Backend con Java + Spring Boot**.
 - 💾 Manejo sólido de bases de datos relacionales como **MySQL**.
 - 🧠 Buenas prácticas de POO y estructuras gracias a mi formación con **C**.
-- 🎯 Trabajo bien en equipo, con experiencia en **Trello** y **Jira** para organizar proyectos.
-- 🛠️ Apasionado por crear APIs limpias, eficientes y escalables.
+- 🛠️ Principios SOLID acá se respetan como si fuera la ley de gravedad.
+- 🛠️ ACID no es solo una propiedad, es un compromiso con la calidad del software.
+- 🎯 Me gusta el trabajo en equipo, con experiencia en **Trello** y **Jira** para organizar proyectos.
+- 🛠️ APIs limpias, eficientes y escalables.
 - 🚀 Buscando oportunidades para aportar y crecer en el mundo IT.
 
 ---
