@@ -50,17 +50,8 @@ _App de escritorio simulada para operaciones bancarias simples._
 
 ---
 
-## 📊 GitHub Stats orientadas a Java
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=facundobustos&show_icons=true&theme=graywhite&hide_title=true&hide_border=false&count_private=true&hide=issues&custom_title=Mi+actividad+en+GitHub" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundobustos&layout=compact&theme=graywhite&langs_count=6&hide_title=true&custom_title=Lenguajes+m%C3%A1s+usados" height="160px"/>
-</div>
-
----
-
 ## 📬 Contacto
 
-📧 **Email:** facundobustos.dev@gmail.com  
+📧 **Email:** facubustos2108@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/facundobustos](https://www.linkedin.com/in/facub21/)  
 
