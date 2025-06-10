@@ -1,11 +1,11 @@
 <!-- 🎨 HEADER ANIMADO RGB + CENIZA -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00CFFF&center=true&width=1000&lines=Hola%2C+soy+Facundo+Bustos+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=4000&color=FFA500&center=true&width=1000&lines=Backend+Developer+orientado+a+Java+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFA500&center=true&width=1000&lines=Backend+Developer+orientado+a+Java+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=7000&color=00FF00&center=true&width=1000&lines=Java+%7C+Spring+Boot+%7C+MySQL+%7C+C+%7C+Trello+%7C+Jira)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1500&color=00FF00&center=true&width=1000&lines=Java+%7C+Spring+Boot+%7C+MySQL+%7C+C+%7C+Trello+%7C+Jira)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=10000&color=8A2BE2&center=true&width=1000&lines=Construyendo+sistemas+robustos+y+escalables+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=2000&color=8A2BE2&center=true&width=1000&lines=Construyendo+sistemas+robustos+y+escalables+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
 
 ---
