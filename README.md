@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre mí
 
-- 💻 Estudiante de **Tecnicatura Universitaria en Programación** (UNLaM).
+- 💻 Estudiante de **Tecnicatura Universitaria en Programación** (UNIVERSIDAD TECNOLOGICA NACIONAL MAR DEL PLATA).
 - 🚀 Me enfoco en el desarrollo **backend con Java + Spring Boot**.
 - 🧩 Me gusta diseñar lógicas claras, APIs limpias y trabajar con bases de datos reales como **MySQL**.
 - ⚙️ También tengo experiencia con **C**, lo que me dio una base sólida en estructuras y lógica.
