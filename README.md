@@ -16,7 +16,7 @@
 
 ## 🧠 Sobre mí
 
-- 💻 Estudiante de **Tecnicatura Universitaria en Programación** en la Universidad Tecnologica Nacional de Mar Del Plata.
+- 💻 Estudiante de **Tecnicatura Universitaria en Programación** en la Universidad Tecnológica Nacional de Mar Del Plata.
 - 🧱 Foco principal en desarrollo **Backend con Java + Spring Boot**.
 - 💾 Manejo sólido de bases de datos relacionales como **MySQL**.
 - 🧠 Buenas prácticas de POO y estructuras gracias a mi formación con **C**.
