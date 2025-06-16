@@ -20,6 +20,16 @@ Here are some ideas to get you started:
 
 ---
 
+---
+
+## 🧰 Tech Stack
+
+| Lenguajes       | Frameworks           | Bases de datos     | Herramientas        |
+|-----------------|----------------------|---------------------|----------------------|
+| ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java&logoColor=orange) ![C](https://img.shields.io/badge/C-444444?style=for-the-badge&logo=c&logoColor=lightgray) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3A3A3A?style=for-the-badge&logo=springboot&logoColor=green) | ![MySQL](https://img.shields.io/badge/MySQL-2E2E2E?style=for-the-badge&logo=mysql&logoColor=white) | ![Trello](https://img.shields.io/badge/Trello-2F2F2F?style=for-the-badge&logo=trello&logoColor=lightblue) ![Jira](https://img.shields.io/badge/Jira-2F2F2F?style=for-the-badge&logo=jira&logoColor=blue) |
+
+---
+
 ## 🧠 Sobre mí
 
 - 💻 Estudiante de **Tecnicatura Universitaria en Programación** en la UTN Mar Del Plata (ETAPAS FINALES).
@@ -32,15 +42,7 @@ Here are some ideas to get you started:
 - 🛠️ APIs limpias, eficientes y escalables.
 - 🚀 Buscando oportunidades para aportar y crecer en el mundo IT.
 
----
 
-## 🧰 Tech Stack
-
-| Lenguajes       | Frameworks           | Bases de datos     | Herramientas        |
-|-----------------|----------------------|---------------------|----------------------|
-| ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java&logoColor=orange) ![C](https://img.shields.io/badge/C-444444?style=for-the-badge&logo=c&logoColor=lightgray) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3A3A3A?style=for-the-badge&logo=springboot&logoColor=green) | ![MySQL](https://img.shields.io/badge/MySQL-2E2E2E?style=for-the-badge&logo=mysql&logoColor=white) | ![Trello](https://img.shields.io/badge/Trello-2F2F2F?style=for-the-badge&logo=trello&logoColor=lightblue) ![Jira](https://img.shields.io/badge/Jira-2F2F2F?style=for-the-badge&logo=jira&logoColor=blue) |
-
----
 
 ## 🚀 Proyectos destacados
 
